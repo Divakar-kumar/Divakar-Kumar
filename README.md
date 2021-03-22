@@ -4,20 +4,21 @@ Here are some ideas to get you started:
 
 6+ years hands on experience in Microsoft .NET Development. Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.NET Core, JavaScript, AngularJS .
 
+## &#x270d; Specializations:
 📌 Microservices Architecture <br>
-📌 API Gateways
-📌 DDD/CQRS patterns
-📌 Distributed Message Broker Service Bus Applications (RabbitMQ, Azure Service Bus)
-📌 Event Sourcing
-📌 Cloud Computing Architectures
-📌 IAAS platforms (Azure)
-📌 Application Containerization, Docker.
+📌 API Gateways <br>
+📌 DDD/CQRS patterns <br>
+📌 Distributed Message Broker Service Bus Applications (RabbitMQ, Azure Service Bus) <br>
+📌 Event Sourcing <br>
+📌 Cloud Computing Architectures <br>
+📌 IAAS platforms (Azure) <br>
+📌 Application Containerization, Docker. <br>
 
-🏆 Certifications:
+## 🏆 Certifications:
 
-✔️ Microsoft Certified Trainer
-✔️ Microsoft Certified: DevOps Engineer Expert
-✔️ Microsoft Certified: Azure Developer Associate
-✔️ Microsoft Certified: Azure IoT Developer Specialty
-✔️ Microsoft Certified: Azure Fundamentals
-✔️ Aviatrix Certified Engineer - Multi-Cloud Network Associate
+✔️ Microsoft Certified Trainer <br>
+✔️ Microsoft Certified: DevOps Engineer Expert <br>
+✔️ Microsoft Certified: Azure Developer Associate <br>
+✔️ Microsoft Certified: Azure IoT Developer Specialty <br>
+✔️ Microsoft Certified: Azure Fundamentals <br>
+✔️ Aviatrix Certified Engineer - Multi-Cloud Network Associate <br>
