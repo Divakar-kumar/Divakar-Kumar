@@ -6,23 +6,6 @@ My name is Divakar Kumar and I have around 6+ years hands on experience in Micro
 Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.NET Core, JavaScript, AngularJS . 
 </h3>
 
-### Specializations
-
-📌 Microservices Architecture <br>
-📌 API Gateways <br>
-📌 DDD/CQRS patterns <br>
-📌 Distributed Message Broker <br>
-📌 Event Sourcing <br>
-📌 Cloud Computing Architectures <br>
-📌 IAAS platforms (Azure) <br>
-📌 Application Containerization, Docker. <br>
-
- ---
-
-<p>
-  &#x270d;
-</p>
-
 <table>
 <tr>
 <th> &#x270d; Specializations:</th>
