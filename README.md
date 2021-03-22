@@ -20,3 +20,6 @@ My name is Divakar Kumar and I have around 6+ years hands on experience in Micro
 ✔️ Microsoft Certified: Azure IoT Developer Specialty <br>
 ✔️ Microsoft Certified: Azure Fundamentals <br>
 ✔️ Aviatrix Certified Engineer - Multi-Cloud Network Associate <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakar-kumar)](https://github.com/divakar-kumar/github-readme-stats)
+
