@@ -2,7 +2,6 @@
 
 My name is Divakar Kumar and I have around 6+ years hands on experience in Microsoft .NET Development. Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.NET Core, JavaScript, AngularJS .
 
-|
 ## &#x270d; Specializations:
 📌 Microservices Architecture <br>
 📌 API Gateways <br>
@@ -24,3 +23,4 @@ My name is Divakar Kumar and I have around 6+ years hands on experience in Micro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakar-kumar)](https://github.com/divakar-kumar/github-readme-stats)
 
+![Divakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=divakar-kumar&count_private=true)
