@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<pre>
+
 <h3>
 My name is Divakar Kumar and I have around 6+ years hands on experience in Microsoft .NET Development. 
 Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.NET Core, JavaScript, AngularJS . 
 </h3>
-</pre> 
+
 
 <table>
 <tr>
