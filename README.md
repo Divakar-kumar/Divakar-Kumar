@@ -14,7 +14,7 @@ My name is Divakar Kumar and I have around 6+ years hands on experience in Micro
 📌 Microservices Architecture <br>
 📌 API Gateways <br>
 📌 DDD/CQRS patterns <br>
-📌 Distributed Message Broker Service Bus Applications (RabbitMQ, Azure Service Bus) <br>
+📌 Distributed Message Broker <br>
 📌 Event Sourcing <br>
 📌 Cloud Computing Architectures <br>
 📌 IAAS platforms (Azure) <br>
