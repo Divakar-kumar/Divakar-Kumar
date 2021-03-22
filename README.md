@@ -42,8 +42,22 @@ Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.N
 </tr>
 </table>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakar-kumar)](https://github.com/divakar-kumar/github-readme-stats)
-
-![Divakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=divakar-kumar&count_private=true)
+<table>
+<tr>
+<th> Top Languages used :</th>
+<th> Github stats :</th>
+</tr>
+<tr>
+<td>
+  <pre>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakar-kumar)](https://github.com/divakar-kumar/github-readme-stats)
+ </pre>
+  </td>
+  <td>
+    <pre>
+ ![Divakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=divakar-kumar&show_icons=true&theme=radical)
+ </pre>
+  </td>
+  </tr>
+  </table>
 
