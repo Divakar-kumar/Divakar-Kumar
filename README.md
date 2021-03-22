@@ -43,6 +43,8 @@ Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.N
 
 <a href="https://github.com/Divakar-Kumar">
   <br>
+  <br>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-Kumar&hide=java,html&title_color=00000&text_color=1d1f21&icon_color=2bbc8a&bg_color=fffff" />
 </a>
 <a href="https://github.com/Divakar-Kumar">
