@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Divakar-kumar/Divakar-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+6+ years hands on experience in Microsoft .NET Development. Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.NET Core, JavaScript, AngularJS .
+
+📌 Microservices Architecture
+📌 API Gateways
+📌 DDD/CQRS patterns
+📌 Distributed Message Broker Service Bus Applications (RabbitMQ, Azure Service Bus)
+📌 Event Sourcing
+📌 Cloud Computing Architectures
+📌 IAAS platforms (Azure)
+📌 Application Containerization, Docker.
+
+🏆 Certifications:
+
+✔️ Microsoft Certified Trainer
+✔️ Microsoft Certified: DevOps Engineer Expert
+✔️ Microsoft Certified: Azure Developer Associate
+✔️ Microsoft Certified: Azure IoT Developer Specialty
+✔️ Microsoft Certified: Azure Fundamentals
+✔️ Aviatrix Certified Engineer - Multi-Cloud Network Associate
