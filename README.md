@@ -1,4 +1,4 @@
-### Hi there 👋 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Divakar-Kumar&repo=Divakar-Kumar&countColorcountColor&countColor=%23001199)
+### Hi ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Divakar-Kumar&repo=Divakar-Kumar&countColorcountColor&countColor=%23001199) 👋 
 
 
 <h3>
