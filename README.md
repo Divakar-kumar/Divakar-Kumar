@@ -50,4 +50,7 @@ Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.N
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Blogging to the max : Migrating from WordPress to Azure static web apps + Hugo](https://iamdivakarkumar.com/hugo_blog_azure_static_web_app/)
+- [Build Intelligent Outlook using Azure](https://iamdivakarkumar.com/build_intelligent_outlook/)
+- [Create .NET Core Project Template](https://iamdivakarkumar.com/2021/05/14/create-net-core-project-template/)
 <!-- BLOGPOSTS:END -->
