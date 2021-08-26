@@ -50,7 +50,7 @@ Experience in Web Application Development using C#, .NET Core, ASP.NET/MVC/ASP.N
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-- [AzPark : SWA - How to deploy Angular SPA in Azure Static Web Apps](https://iamdivakarkumar.com/azpark-swa-deploy-angular/)
+- [AzPark: SWA - Azure Static Web Apps Authentication in Angular application](https://iamdivakarkumar.com/azpark-swa-authentication/)
+- [AzPark: SWA - How to deploy Angular SPA in Azure Static Web Apps](https://iamdivakarkumar.com/azpark-swa-deploy-angular/)
 - [AzPark: Welcome to my Jurassic Park](https://iamdivakarkumar.com/azpark-intro/)
-- [Blogging to the max : Migrating from WordPress to Azure static web apps + Hugo](https://iamdivakarkumar.com/hugo_blog_azure_static_web_app/)
 <!-- BLOGPOSTS:END -->
