@@ -4,10 +4,10 @@ Divakar Kumar is a Microsoft Certified Trainer and specialized in designing, dev
 
 He’s an active speaker at events ,meetups and contributing to the community through his blogs at https://iamdivakarkumar.com. He is also working on a personal project to explore Azure services with real time implementations based on different use cases at https://azpark.iamdivakarkumar.com.
 
-🏆 Certifications:
-✔️ Microsoft Certified Trainer
-✔️ Microsoft Certified: DevOps Engineer Expert
-✔️ Microsoft Certified: Azure Developer Associate
-✔️ Microsoft Certified: Azure IoT Developer Specialty
-✔️ Microsoft Certified: Azure Fundamentals
-✔️ Aviatrix Certified Engineer - Multi-Cloud Network Associate
+<br />🏆 Certifications:
+<br />✔️ Microsoft Certified Trainer
+<br />✔️ Microsoft Certified: DevOps Engineer Expert
+<br />✔️ Microsoft Certified: Azure Developer Associate
+<br />✔️ Microsoft Certified: Azure IoT Developer Specialty
+<br />✔️ Microsoft Certified: Azure Fundamentals
+<br />✔️ Aviatrix Certified Engineer - Multi-Cloud Network Associate
